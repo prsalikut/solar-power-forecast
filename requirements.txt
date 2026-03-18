@@ -1,0 +1,14 @@
+streamlit
+plotly
+pandas
+numpy
+opencv-python-headless
+Pillow
+matplotlib
+scipy
+scikit-learn
+scikit-image
+requests
+statsmodels
+python-dateutil
+xgboost
